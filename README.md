@@ -1,3 +1,3 @@
-## 网站分享
-基于laravel 5.1搭建的，该项目主要爬取alexa网站信息与大家分享一些有意思的小众网站。
+## website share
+Based on laravel 5.1, the project mainly crawls information from alexa sites to share with you some interesting niche sites.
 
